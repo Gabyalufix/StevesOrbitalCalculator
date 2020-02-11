@@ -1,0 +1,15 @@
+
+
+var solmass = 1.989e30
+var emass = 5.97237e24
+var G = 6.67430e-11
+var mu = G * solmass
+var au = 149598023000
+
+var pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062
+
+var oneyear = 365.25 * 24 * 60 * 60
+var onemonth = oneyear/12
+
+
+
